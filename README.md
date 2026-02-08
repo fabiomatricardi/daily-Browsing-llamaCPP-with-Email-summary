@@ -86,7 +86,16 @@ browsing-digest-summarizer/
    ./server -c 4096 --port 8080
    ```
 2. **Python 3.8+** installed
-3. **Browsing Digest extension** export file (JSON format)
+3. **Browsing Digest Chrome extension** export file (JSON format)
+> - Open Chrome and go to chrome://extensions/
+> 
+> - Enable Developer mode (toggle in top right)
+> 
+> - Click Load unpacked
+> 
+> - Select the extension folder from this project
+> 
+> - Pin the extension to your toolbar for easy access
 
 ### Installation
 ```bash
